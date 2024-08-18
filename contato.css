@@ -1,0 +1,79 @@
+body{
+    background-image: url(fundo.png);
+    background-color: rgba(0, 0, 0, 70%);
+    background-blend-mode: multiply;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 40%);
+    font-size: 60px;
+
+}
+#pedido{
+    color: white;
+    margin-left: 770px;
+    align-items: center;
+    display: flex;
+    margin-top: 10px 
+}
+#caixa-rua{
+    margin-left: 20px;
+    color: white;
+    height: 20px;
+    margin-top: 5px
+}
+
+#titulo
+{
+    text-align: center;
+    font-size: 50px;
+}
+#confir{
+   height: 40px; 
+   width: 200px;
+   margin-left: 850px;
+   margin-top: 40px;
+   border-radius: 40px;
+   color: rgb(243, 243, 248);
+   background-color: rgb(18, 18, 121);
+   font-size: 20px;
+
+}
+#pd
+{
+    color: white;
+}
+#titulo{
+color: white;
+}
+#caixa-rua1{
+    margin-left: 110px;
+    color: white;
+    height: 20px;
+    margin-top: 5px
+}
+#caixa-rua2{
+    margin-left: 87px;
+    color: white;
+    height: 20px;
+    margin-top: 5px
+}
+#caixa-rua3{
+    margin-left: 84px;
+    color: white;
+    height: 20px;
+    margin-top: 5px
+}
+#caixa-rua4{
+    margin-left: 90px;
+    color: white;
+    height: 22px;
+    margin-top: 5px
+}

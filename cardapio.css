@@ -1,0 +1,122 @@
+header {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 40%);
+
+}
+
+body {
+    margin: 0;
+    background-image: url(Design\ sem\ nome.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} 
+
+#pd {
+    color: white;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+#linha1 {
+    color: white;
+    font-size: 40px;
+    margin-left: 80px;
+    width: 30px;
+    display: flex;
+
+}
+
+#nach {
+    margin-left: 65px;
+}
+
+#Guacamole {
+    margin-left: 25px;
+
+}
+
+#gg {
+    margin-left: 65px;
+
+}
+
+#Tortilhas {
+    margin-left: 55px;
+}
+
+#t {
+    margin-left: 75px;
+}
+
+#bb {
+    margin-left: 70px;
+}
+
+#Burrito {
+    margin-left: 60px;
+}
+
+#gua {
+    margin-left: 70px
+}
+
+#tt {
+    margin-left: 70px
+}
+
+#br {
+    margin-left: 70px
+}
+
+#Nachos {
+    margin-left: 65px
+}
+#linha2{
+    color: white;
+    font-size: 40px;
+    margin-left: 80px;
+    width: 30px;
+    display: flex;
+
+}
+#mar{
+    margin-left: 30px
+}
+#ma{
+    margin-left: 60px
+}
+#bbc{
+    margin-left: 40px
+}
+#Barbacoa-beans{
+    margin-left: 70px;
+}
+#bbcd{
+    margin-left: 70px;
+}
+#Margaritas{
+    margin-left: 65px;
+}
+#pb{
+    margin-left: 55px;
+}
+#sc{
+    margin-left: 35px;
+}
+#Sour-cream{
+    margin-left: 70px;
+}
+#linha2{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#linha1{
+    margin-left: 250px;
+    margin-top: 100px;
+}
